@@ -1,0 +1,25 @@
+{
+  "name": "zeebe-ttl-test",
+  "version": "1.0.0",
+  "description": "A test of Zeebe message TTL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jwulf/zeebe-ttl-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jwulf/zeebe-ttl-test/issues"
+  },
+  "homepage": "https://github.com/jwulf/zeebe-ttl-test#readme",
+  "dependencies": {
+    "@types/uuid": "^3.4.4",
+    "uuid": "^3.3.2",
+    "zeebe-node-next": "^2.4.0"
+  }
+}
